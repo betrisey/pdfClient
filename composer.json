@@ -1,0 +1,19 @@
+{
+    "name": "betrisey/pdfClient",
+    "description": "PHP client for Axianet's HTMLtoPDF service",
+    "keywords": ["HTML", "PDF", "converter", "HTMLtoPDF"],
+    "authors": [
+        {
+            "name": "Samuel Bétrisey",
+            "email": "samuel.betrisey@axianet.ch"
+        }
+    ],
+	"version": "1.0.0",
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "Axianet\\pdfClient\\": "src"
+        }
+    }
+}
