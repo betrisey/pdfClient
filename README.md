@@ -1,9 +1,10 @@
 # HTMLtoPDF Client
+PHP client for Axianet's HTMLtoPDF service
 ## Installation
 ``` bash
 composer require betrisey/pdf-client
 ```
-## Utilisation
+## Usage
 ``` php
 <?php
 require_once 'vendor/autoload.php';
