@@ -1,5 +1,5 @@
 {
-    "name": "betrisey/pdfClient",
+    "name": "betrisey/pdf-client",
     "description": "PHP client for Axianet's HTMLtoPDF service",
     "keywords": ["HTML", "PDF", "converter", "HTMLtoPDF"],
     "authors": [
