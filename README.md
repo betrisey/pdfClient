@@ -17,6 +17,6 @@ $pdf = new pdfClient([
 ]);
 
 $pdf->fromFile('file.html');
-$pdf->fromString('&lt;h1&gt;Content&lt;/h1&gt;');
+$pdf->fromString('<h1>Content</h1>');
 $pdf->fromUrl('google.com');
 ```
