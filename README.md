@@ -23,5 +23,7 @@ $pdf->fromUrl('google.com');
 ```
 
 ### Send email
+``` php
 $pdf->fromFile('file.html', 'samuel@axianet.ch', 'Suject', 'Content');
 $pdf->fromFile('file.html', ['samuel@axianet.ch', 'info@axianet.ch'], 'Suject', 'Content');
+```
