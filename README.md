@@ -8,7 +8,7 @@ composer require betrisey/pdf-client
 ``` php
 <?php
 require_once 'vendor/autoload.php';
-use Axianet\pdfClient\pdfConverter;
+use Axianet\pdfConverter\pdfClient;
 
 $pdf = new pdfClient([
 	'url' => 'http://localhost/htmltopdf/',
